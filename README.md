@@ -1,4 +1,4 @@
-# Scan your code with SonarCloud
+# Scan your code with SonarCloud for Raja
 
 Using this GitHub Action, scan your code with [SonarCloud](https://sonarcloud.io/) to detects bugs, vulnerabilities and code smells in more than 20 programming languages!
 
